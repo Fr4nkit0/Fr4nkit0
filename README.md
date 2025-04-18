@@ -28,5 +28,3 @@
 - **Empatía**: Crear soluciones que sean útiles para las personas y sus necesidades.  
 
 ---
-
-¡Gracias por visitar mi perfil! 😊 Si tienes un proyecto interesante o una idea que quieras discutir, no dudes en contactarme.
