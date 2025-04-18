@@ -9,7 +9,7 @@
 
 - 🌍 **Ubicación**: Salta, Argentina  
 - 🛠️ **Tecnologías favoritas**:  
-  - **Back-End**: Java, Spring Boot, Spring Security  
+  - **Back-End**: Java, Spring Boot, Spring Security , Spring Cloud , Django  
   - **Front-End**: React, TypeScript  
   - **Bases de datos**: MySQL, PostgreSQL  
   - **DevOps**: Docker  
